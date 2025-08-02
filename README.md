@@ -1,4 +1,4 @@
-# 🖼️ Modern and New Picture in Picture Version
+# 🖼️ Modern and New Picture in Picture Version | Document Picture in picture API
 
 ![Modern and New Picture in Picture Demo](./public/screen.png)
 
