@@ -4,6 +4,12 @@
 
 A modern **Picture-in-Picture (PiP)** demonstration application built with Next.js that showcases the Document Picture-in-Picture API. Experience the next-generation floating window for video calls and interactive content with seamless multitasking capabilities.
 
+## Demo 
+You can check out the demo at this link:  
+[https://modern-picture-in-picture.vercel.app/](https://modern-picture-in-picture.vercel.app/)
+
+Important: Make sure to use a browser that supports Document Picture-in-Picture, such as Chrome, Edge, or Safari.
+
 ## ✨ Features
 
 ### 🎯 **Better Focus**
